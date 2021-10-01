@@ -1,0 +1,24 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "practice_git",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brimanz/git_exercise.git"
+  },
+  "author": "jonathan_briceño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brimanz/git_exercise/issues"
+  },
+  "homepage": "https://github.com/brimanz/git_exercise#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
